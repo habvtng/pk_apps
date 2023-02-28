@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/natexco/cbc/cbc.ipa</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/natexco/cbc/natexco_cbc.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://14.225.7.203:8082/apps/tre.png</string>
+					<string>http://14.170.154.13:8082/apps/tre.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://14.225.7.203:8082/apps/tre.png</string>
+					<string>http://14.170.154.13:8082/apps/tre.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.natextco.cbcapp</string>
 				<key>bundle-version</key>
-				<string>23.2.27</string>
+				<string>23.2.28</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
