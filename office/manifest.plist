@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>,vn.lgg.office</string>
+				<string>vn.lgg.office</string>
 				<key>bundle-version</key>
 				<string>23.2.29</string>
 				<key>kind</key>
