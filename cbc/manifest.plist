@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/natexco/cbc/natexco_cbc.ipa</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/vitexco/cbc/vitexco_cbc.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,15 +29,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.natextco.cbcapp</string>
+				<string>com.vitexco.cbcapp</string>
 				<key>bundle-version</key>
-				<string>23.2.28</string>
+				<string>23.6.23</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>Natexco CBC</string>
+				<string>Vitexco CBC</string>
 			</dict>
 		</dict>
 	</array>
