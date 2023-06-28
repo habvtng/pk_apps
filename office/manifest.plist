@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.natexco.office</string>
+				<string>com.vitexco.office</string>
 				<key>bundle-version</key>
 				<string>23.6.27</string>
 				<key>kind</key>
