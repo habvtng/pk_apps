@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://14.225.7.203:8082/apps/tre.png</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/vitexco/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://14.225.7.203:8082/apps/tre.png</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/vitexco/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.natexco.office</string>
 				<key>bundle-version</key>
-				<string>23.2.29</string>
+				<string>23.6.29</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
