@@ -11,33 +11,33 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/ha_do/office/HDGOffice.ipa</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/nhietdienankhanh/office/nhietdienankhanh.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/ha_do/Icon.png</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/nhietdienankhanh/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/ha_do/Icon.png</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/nhietdienankhanh/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>vn.com.hado.office</string>
+				<string>vn.com.tng.nhietdienankhanh</string>
 				<key>bundle-version</key>
-				<string>24.7.24</string>
+				<string>24.7.26</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>HDG Office</string>
+				<string>TRE Office</string>
 			</dict>
 		</dict>
 	</array>
