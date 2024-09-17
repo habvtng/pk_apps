@@ -31,13 +31,13 @@
 				<key>bundle-identifier</key>
 				<string>vn.com.nhabe.office</string>
 				<key>bundle-version</key>
-				<string>24.1.5</string>
+				<string>24.9.18</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>NBCOffice</string>
+				<string>NhaBeOffice</string>
 			</dict>
 		</dict>
 	</array>
