@@ -11,33 +11,33 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/lgg_qlts/office/LGG_QLTS.ipa</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/mian_qlts/office/MianAsset.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/lgg_qlts/Icon.png</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/mian_qlts/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/lgg_qlts/Icon.png</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/mian_qlts/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>vn.lgg.qlts</string>
+				<string>com.mian.asset</string>
 				<key>bundle-version</key>
-				<string>23.11.8</string>
+				<string>24.11.13</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>LGG_QLTS</string>
+				<string>MianAsset</string>
 			</dict>
 		</dict>
 	</array>
