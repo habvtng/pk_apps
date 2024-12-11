@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.vitexco.cbcapp</string>
 				<key>bundle-version</key>
-				<string>23.12.10</string>
+				<string>24.12.9</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
