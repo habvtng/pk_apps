@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.vitexco.cbcapp</string>
+				<string>vn.tre.sonhacbc</string>
 				<key>bundle-version</key>
 				<string>24.12.9</string>
 				<key>kind</key>
