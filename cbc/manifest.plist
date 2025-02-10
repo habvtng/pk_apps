@@ -11,25 +11,25 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/son_ha/cbc/cbc.ipa</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/x20/cbc/cbc.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/son_ha/Icon.png</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/x20/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/son_ha/Icon.png</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/x20/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>vn.tre.sonhacbc</string>
+				<string>vn.tre.x20cbc</string>
 				<key>bundle-version</key>
 				<string>24.12.9</string>
 				<key>kind</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>SonHa CBC</string>
+				<string>X20 CBC</string>
 			</dict>
 		</dict>
 	</array>
