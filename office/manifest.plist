@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>vn.apit.followmaster2</string>
+				<string>vn.apit.followmasterv2</string>
 				<key>bundle-version</key>
-				<string>24.10.9</string>
+				<string>25.3.23</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
