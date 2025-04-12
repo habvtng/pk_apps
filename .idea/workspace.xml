@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6546bda2-7958-444b-9968-5284d41fe7e8" name="Changes" comment="add .git">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_11_24,_17_17_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_11_24,_17_17_[Changes]1/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_11_24__17_17__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/office/VTCOffice.ipa" beforeDir="false" afterPath="$PROJECT_DIR$/office/VTCOffice.ipa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/office/manifest.plist" beforeDir="false" afterPath="$PROJECT_DIR$/office/manifest.plist" afterDir="false" />
+    <list default="true" id="6546bda2-7958-444b-9968-5284d41fe7e8" name="Changes" comment="cập nhật cbc android">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cbc/manifest.plist" beforeDir="false" afterPath="$PROJECT_DIR$/cbc/manifest.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cbc/vitexco_cbc.ipa" beforeDir="false" afterPath="$PROJECT_DIR$/cbc/vitexco_cbc.ipa" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +16,10 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/cbc/manifest.plist" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/office/manifest.plist" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/office/manifest.plist" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/tngoffice.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/cbc/manifest.plist" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2pTTUwC2HxRQMS9IFA9VJINs7Ep" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -30,8 +27,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cbc" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cbc" />
       <recent name="$PROJECT_DIR$/office" />
     </key>
   </component>
@@ -51,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1732789084100</updated>
       <workItem from="1732789085177" duration="161000" />
+      <workItem from="1744450400355" duration="43000" />
     </task>
     <task id="LOCAL-00001" summary="update lgg qlts">
       <option name="closed" value="true" />
@@ -60,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732789139651</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cập nhật cbc android">
+      <created>1744447334330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744447334331</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update lgg qlts" />
-    <option name="LAST_COMMIT_MESSAGE" value="update lgg qlts" />
+    <MESSAGE value="cập nhật cbc android" />
+    <option name="LAST_COMMIT_MESSAGE" value="cập nhật cbc android" />
   </component>
 </project>
