@@ -55,7 +55,8 @@
       <updated>1732789084100</updated>
       <workItem from="1732789085177" duration="161000" />
       <workItem from="1744450400355" duration="43000" />
-      <workItem from="1745203118530" duration="99000" />
+      <workItem from="1745203118530" duration="299000" />
+      <workItem from="1745210983292" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="update lgg qlts">
       <option name="closed" value="true" />
@@ -72,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1744447334331</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="build bản ios mới">
+      <created>1745203229660</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745203229661</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +113,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update lgg qlts" />
     <MESSAGE value="cập nhật cbc android" />
-    <option name="LAST_COMMIT_MESSAGE" value="cập nhật cbc android" />
+    <MESSAGE value="build bản ios mới" />
+    <option name="LAST_COMMIT_MESSAGE" value="build bản ios mới" />
   </component>
 </project>
