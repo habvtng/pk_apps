@@ -17,8 +17,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/office/manifest.plist" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/tngoffice.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/office/manifest.plist" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/cbc/manifest.plist" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2pTTUwC2HxRQMS9IFA9VJINs7Ep" />
