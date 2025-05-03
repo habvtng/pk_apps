@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6546bda2-7958-444b-9968-5284d41fe7e8" name="Changes" comment="build bản ios mới">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/office/VTCOffice.ipa" beforeDir="false" afterPath="$PROJECT_DIR$/office/VTCOffice.ipa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/office/manifest.plist" beforeDir="false" afterPath="$PROJECT_DIR$/office/manifest.plist" afterDir="false" />
-    </list>
+    <list default="true" id="6546bda2-7958-444b-9968-5284d41fe7e8" name="Changes" comment="cbc" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,11 +25,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/office" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/box" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/box" />
       <recent name="$PROJECT_DIR$/office" />
       <recent name="$PROJECT_DIR$/cbc" />
     </key>
@@ -57,6 +54,7 @@
       <workItem from="1744450400355" duration="43000" />
       <workItem from="1745203118530" duration="299000" />
       <workItem from="1745210983292" duration="38000" />
+      <workItem from="1746185400291" duration="674000" />
     </task>
     <task id="LOCAL-00001" summary="update lgg qlts">
       <option name="closed" value="true" />
@@ -80,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1745203229661</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="cbc">
+      <created>1746185462578</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746185462578</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +119,7 @@
     <MESSAGE value="update lgg qlts" />
     <MESSAGE value="cập nhật cbc android" />
     <MESSAGE value="build bản ios mới" />
-    <option name="LAST_COMMIT_MESSAGE" value="build bản ios mới" />
+    <MESSAGE value="cbc" />
+    <option name="LAST_COMMIT_MESSAGE" value="cbc" />
   </component>
 </project>
