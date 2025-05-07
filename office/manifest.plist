@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://app.tng.vn/ho_guom/office/HoGuomOffice.ipa</string>
+					<string>https://app.tng.vn/ho_guom/HoGuomOffice.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.hoguom.office</string>
 				<key>bundle-version</key>
-				<string>25.3.28</string>
+				<string>25.5.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
