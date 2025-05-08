@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6546bda2-7958-444b-9968-5284d41fe7e8" name="Changes" comment="cbc" />
+    <list default="true" id="6546bda2-7958-444b-9968-5284d41fe7e8" name="Changes" comment="box" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,12 +19,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "anhnguyen123"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/habvtng/pk_apps.git",
+    "accountId": "061ecce9-21b2-4771-9926-1cbc9d933832"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/tngoffice.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/office/manifest.plist" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/cbc/manifest.plist" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2pTTUwC2HxRQMS9IFA9VJINs7Ep" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,11 +48,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "vitexco",
+    "last_opened_file_path": "/Users/ngocanh/TNG/pk_apps/box",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -50,7 +70,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
       </set>
     </attachedChunks>
   </component>
@@ -67,6 +87,7 @@
       <workItem from="1745203118530" duration="299000" />
       <workItem from="1745210983292" duration="38000" />
       <workItem from="1746185400291" duration="674000" />
+      <workItem from="1746602114199" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="update lgg qlts">
       <option name="closed" value="true" />
@@ -97,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746185462578</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="box">
+      <option name="closed" value="true" />
+      <created>1746602146542</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746602146542</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +160,7 @@
     <MESSAGE value="cập nhật cbc android" />
     <MESSAGE value="build bản ios mới" />
     <MESSAGE value="cbc" />
-    <option name="LAST_COMMIT_MESSAGE" value="cbc" />
+    <MESSAGE value="box" />
+    <option name="LAST_COMMIT_MESSAGE" value="box" />
   </component>
 </project>
