@@ -11,33 +11,33 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/x20/cbc/cbc.ipa</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/dongxuan/cbc/cbc.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/x20/Icon.png</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/dongxuan/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/x20/Icon.png</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/dongxuan/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>vn.tre.x20cbc</string>
+				<string>vn.tre.dongxuancbc</string>
 				<key>bundle-version</key>
-				<string>25.8.6</string>
+				<string>25.9.10</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>X20 CBC</string>
+				<string>DongXuan CBC</string>
 			</dict>
 		</dict>
 	</array>
