@@ -31,13 +31,13 @@
 				<key>bundle-identifier</key>
 				<string>vn.tre.dongxuancbc</string>
 				<key>bundle-version</key>
-				<string>25.11.3</string>
+				<string>26.2.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>DongXuan CBC</string>
+				<string>DongXuan CBC 2026</string>
 			</dict>
 		</dict>
 	</array>
