@@ -11,33 +11,33 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/dongxuan/office/app.ipa</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/phu_hoa_an/office/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/dongxuan/Icon.png</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/phu_hoa_an/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/dongxuan/Icon.png</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/phu_hoa_an/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>vn.tre.detkimdongxuanoffice</string>
+				<string>vn.tre.phuhoaanoffice</string>
 				<key>bundle-version</key>
-				<string>25.11.4</string>
+				<string>26.2.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>DongXuan Office</string>
+				<string>PhuHoaAn Office</string>
 			</dict>
 		</dict>
 	</array>

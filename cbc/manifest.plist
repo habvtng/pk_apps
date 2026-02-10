@@ -11,25 +11,25 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/dongxuan/cbc/cbc.ipa</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/phu_hoa_an/cbc/cbc.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/dongxuan/Icon.png</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/phu_hoa_an/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/dongxuan/Icon.png</string>
+					<string>https://raw.githubusercontent.com/habvtng/pk_apps/phu_hoa_an/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>vn.tre.dongxuancbc</string>
+				<string>vn.tre.phuhoaancbc</string>
 				<key>bundle-version</key>
 				<string>26.2.7</string>
 				<key>kind</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>DongXuan CBC 2026</string>
+				<string>PhuHoaAn CBC</string>
 			</dict>
 		</dict>
 	</array>
