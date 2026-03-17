@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PhuHoaAn Office.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>20260316</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A7D39B88BB83D350A22002B33769DB1492BB3A43</string>
+				<key>dateExpires</key>
+				<string>10/2/27</string>
+				<key>type</key>
+				<string>Cloud Managed iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>0.12.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A7D39B88BB83D350A22002B33769DB1492BB3A43</string>
+						<key>dateExpires</key>
+						<string>10/2/27</string>
+						<key>type</key>
+						<string>Cloud Managed iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>hermes.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>FPGAZ7K989</string>
+						<key>name</key>
+						<string>TNG INVESTMENT AND TRADING JOINT STOCK COMPANY</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.12.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>FPGAZ7K989.vn.tre.phuhoaanoffice</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.associated-domains</key>
+				<array>
+					<string>applinks:phuhoaanoffice.page.link</string>
+				</array>
+				<key>com.apple.developer.icloud-container-identifiers</key>
+				<array/>
+				<key>com.apple.developer.icloud-services</key>
+				<array>
+					<string>CloudDocuments</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>FPGAZ7K989</string>
+				<key>com.apple.developer.ubiquity-container-identifiers</key>
+				<array/>
+				<key>com.apple.developer.ubiquity-kvstore-identifier</key>
+				<string>FPGAZ7K989.vn.tre.phuhoaanoffice</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>PhuHoaAn Office.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f5bcfd25-044d-4ffe-ba0c-0ab32b41706f</string>
+				<key>dateExpires</key>
+				<string>2/10/27</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: vn.tre.phuhoaanoffice</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>FPGAZ7K989</string>
+				<key>name</key>
+				<string>TNG INVESTMENT AND TRADING JOINT STOCK COMPANY</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>26.3.16</string>
+		</dict>
+	</array>
+</dict>
+</plist>
