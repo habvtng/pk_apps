@@ -11,19 +11,20 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/phu_hoa_an/cbc/cbc.ipa</string>
+					<!-- <string>https://raw.githubusercontent.com/habvtng/pk_apps/phu_hoa_an/cbc/cbc.ipa</string> -->
+					<string>https://app.tre360.vn/phu_hoa_an/cbc/cbc.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/phu_hoa_an/Icon.png</string>
+					<string>https://app.tre360.vn/img/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/phu_hoa_an/Icon.png</string>
+					<string>https://app.tre360.vn/img/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
