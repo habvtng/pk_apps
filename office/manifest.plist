@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- <string>https://office.vitexco.com/App/VTCOffice.ipa</string> -->
-					<string>https://app.tng.io.vn/vitexco/VTCOffice.ipa</string>
+                    <string>https://app.tre360.vn/vitexco/office/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -32,7 +32,7 @@
 				<key>bundle-identifier</key>
 				<string>com.vitexco.office</string>
 				<key>bundle-version</key>
-				<string>25.7.15</string>
+				<string>26.5.16</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
