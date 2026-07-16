@@ -11,8 +11,8 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/habvtng/pk_apps/kim_son/office/app.ipa</string>
-					<!--  <string>https://app.tre360.vn/kim_son/office/app.ipa</string> -->
+					<!--  <string>https://raw.githubusercontent.com/habvtng/pk_apps/kim_son/office/app.ipa</string>  -->
+					<string>https://app.tre360.vn/kim_son/office/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -30,7 +30,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>vn.tre.phuhoaanoffice</string>
+				<string>vn.tre.kimsonoffice</string>
 				<key>bundle-version</key>
 				<string>26.7.14</string>
 				<key>kind</key>
@@ -38,7 +38,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>PhuHoaAn Office</string>
+				<string>KimSon Office</string>
 			</dict>
 		</dict>
 	</array>
