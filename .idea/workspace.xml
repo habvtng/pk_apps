@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6546bda2-7958-444b-9968-5284d41fe7e8" name="Changes" comment="create mian qlts" />
+    <list default="true" id="6546bda2-7958-444b-9968-5284d41fe7e8" name="Changes" comment="create mian qlts">
+      <change beforePath="$PROJECT_DIR$/office/manifest.plist" beforeDir="false" afterPath="$PROJECT_DIR$/office/manifest.plist" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +33,10 @@
     &quot;accountId&quot;: &quot;43a2c3ca-99f2-4827-8c3f-d1cefd564a7d&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -44,6 +50,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "mian__qlts",
+    "javascript.preferred.runtime.type.id": "node",
     "last_opened_file_path": "/Users/ducpham/WebstormProjects/pk_apps/windows",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
